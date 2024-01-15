@@ -23,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Product-preview-card-component/)
+- Live Site URL: [Live Demo](https://mohakgogia.github.io/Product-preview-card-component/)
 
 ### Used
 
